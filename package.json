@@ -1,14 +1,14 @@
 {
-  "name": "boilerplate3",
+  "name": "ReactBoilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate - React, Webpack, Babel",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open --hot",
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "valentergs",
   "license": "ISC",
   "dependencies": {
     "react": "^16.12.0",
